@@ -26,6 +26,8 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
+    <div className='md:px-40 '>
     <RouterProvider router={router}/> 
+    </div>
   </React.StrictMode>
 )

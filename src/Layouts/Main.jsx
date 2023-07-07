@@ -4,9 +4,11 @@ import NavBar from "../Components/sheard/NavBar";
 
 const Main = () => {
     return (
-        <div>
+        <div className="bg-purple-900">
             <NavBar></NavBar>
             <Outlet></Outlet>
+           
+           
             
         </div>
     );
