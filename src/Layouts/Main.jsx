@@ -1,12 +1,15 @@
 import { Outlet } from "react-router-dom";
 import NavBar from "../Components/sheard/NavBar";
+import Footer from "../Components/Footer/Footer";
+
 
 
 const Main = () => {
     return (
-        <div className="bg-purple-900">
+        <div>
             <NavBar></NavBar>
             <Outlet></Outlet>
+            <Footer></Footer>
            
            
             

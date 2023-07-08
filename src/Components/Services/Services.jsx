@@ -3,12 +3,13 @@ import { Player } from "@lottiefiles/react-lottie-player";
 
 const Services = () => {
     return (
-        <>
+        <div id="service">
             <div>
                 <h1 className="text-center font-bold text-white text-4xl my-8 ">SERVICES</h1>
+                <h2 className="text-center font-semibold text-sky-400 text-xl ">Better Design, Better Experience</h2>
             </div>
             <div className="md:flex justify-around my-16">
-                <div className=" border-2 rounded-xl border-sky-400 hover:bg-purple-600 p-4">
+                <div className=" border-2 rounded-xl border-sky-400 hover:bg-purple-600 p-4 shadow-xl">
                     
                     <Player
                         autoplay
@@ -43,7 +44,7 @@ const Services = () => {
             </div>
 
 
-        </>
+        </div>
     );
 };
 

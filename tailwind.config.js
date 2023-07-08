@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily : {
+      abc: ['Quicksand', 'sans-serif']
+
+    },
   },
   plugins: [require("daisyui")],
 }
