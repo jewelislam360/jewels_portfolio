@@ -5,7 +5,7 @@
       "description1": " Build a web application with separate admin sections for students, instructors, and administrators, including e-commerce functionality",
       "description2": "  User-friendly interface, dynamic UI with React, real-time data sync with Firebase and MongoDB, backend logic with Express.js and Node.js, e-commerce capabilities.",
       "description3": "  Design admin sections for different roles, integrate Firebase and MongoDB for data storage, use HTML Tailwind CSS, and React for frontend, implement Express.js and Node.js for backend logic, and enable e-commerce functionality",
-      "image": "../public/icon/2.JPG",
+      "image": "https://i.ibb.co/NZ5KMyH/2.jpg",
       "liveLink": "https://summer-camp-photography.web.app/",
       "clientSiteLink": "https://github.com/jewelislam360/summer-camp-photography-school-client-side",
       "serverSiteLink": "https://github.com/jewelislam360/summer-camp-photography-school-server-side"
@@ -16,7 +16,7 @@
       "description1": "Create a simple web app for a toy cars store using HTML, Tailwind CSS, React, Express, Firebase, and Node.js.",
       "description2": "Key Features: User-friendly interface, toy car catalog display, shopping cart functionality with Firebase, server-side logic with Express and Node.js.",
       "description3": "Develop frontend using HTML, Tailwind CSS, and React; integrate Firebase for data storage; implement Express and Node.js for server-side logic and API handling; test thoroughly and deploy the app for users to access.",
-      "image": "../public/icon/3.JPG",
+      "image": "https://i.ibb.co/pP9Pq23/3.jpg",
       "liveLink": "https://toy-car-3df51.web.app/",
       "clientSiteLink": "https://github.com/jewelislam360/toy-marketplace-client-side",
       "serverSiteLink": "https://github.com/jewelislam360/toy-marketplace-server-side"
@@ -27,7 +27,7 @@
       "description1": "Develop a simple web app called Cookiteers using HTML, Tailwind CSS, React, Express, Firebase, and Node.js for recipe sharing.",
       "description2": "User-friendly interface, user accounts, recipe sharing, search functionality, Firebase for data storage, Express and Node.js for server-side logic.",
       "description3": "Design frontend with HTML, Tailwind CSS, and React; utilize Firebase for data storage; implement Express and Node.js for server-side logic; thoroughly test and deploy the app.",
-      "image": "../public/icon/1.JPG",
+      "image": "https://i.ibb.co/CV840Gf/1.jpg",
       "liveLink": "https://chef-recipe-hunter-clien-e496f.web.app/",
       "clientSiteLink": "https://github.com/jewelislam360/chef-recipe-hunter-client-side",
       "serverSiteLink": "https://github.com/jewelislam360/chef-recipe-hunter-server-side"
